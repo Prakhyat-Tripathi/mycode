@@ -1,1 +1,2 @@
-# mycoding
+# Mycoding
+* My First GitHub Repository
